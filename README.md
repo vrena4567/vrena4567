@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renata, a freshly graduated Junior Backend Developer.
-- 🌱 Deepening my knowledge in a Spring Boot E-Commerce Ultimate Course, and CS50: Introduction to Computer Science at the moment.
+- 🌱 At the moment I'm deepening my knowledge in a Spring Boot E-Commerce Ultimate Course, and CS50: Introduction to Computer Science.
 - 💼 I'm currently on a look out for a role in backend webdevelopment, ideally writting in Java.
 - ⚡ Fun fact: I'm also a ceritfied pychologist, but recently I switched professions. I'm still very much interested in the human psyché but I'm also into developing and creating usable applications and websites. Later on I hope I can combine these two interest of mine.
 - 📫 Feel free to reach me on LinkedIn, let's chat! @renatavegh
